@@ -1,0 +1,31 @@
+firm_name,country,firm_type,difc_adgm,post_2015_vintage,aum_usd_m,ln_aum,policy_reform_score,sectoral_focus_score,active_non_oil_portfolio_cos,cumulative_exits,non_oil_deal_share_pct,non_oil_gdp_contribution_usd_m
+ADIA,UAE,Sovereign Wealth Fund,0,0,993000,13.808485943027309,7.87,7.29,26,95,70.0,42000
+Kuwait Investment Authority,Kuwait,Sovereign Wealth Fund,0,0,803000,13.596109992928898,7.89,6.99,41,85,65.7,23979
+PIF,Saudi Arabia,Sovereign Wealth Fund,0,1,700000,13.458835614025542,7.86,7.12,33,71,68.5,17101
+Qatar Investment Authority,Qatar,Sovereign Wealth Fund,0,0,450000,13.017002861746503,7.35,7.1,30,76,67.0,12229
+Mubadala Capital,UAE,Sovereign Wealth Fund,1,1,276000,12.528156144699286,7.69,7.08,27,69,68.2,7161
+ADQ,UAE,Sovereign Wealth Fund,1,1,199000,12.201060103706629,7.22,7.45,50,107,69.7,13346
+Gulf Capital,Saudi Arabia,Growth Equity,1,1,6169,8.72729202920964,9.48,9.15,15,17,89.7,833
+Investcorp,Oman,Growth Equity,1,1,8930,9.097171673870545,8.51,8.43,38,18,83.2,2316
+Growthgate Capital,Saudi Arabia,Growth Equity,0,1,1744,7.463936604468925,8.63,8.85,10,19,86.0,465
+NBK Capital Partners,Saudi Arabia,Family Office,1,0,3755,8.230843564198235,7.14,6.13,14,12,58.0,612
+Abraaj Legacy Fund,UAE,Asset Manager,1,1,8202,9.012133305952004,7.65,7.59,13,20,74.0,1258
+TVM Capital Healthcare,Saudi Arabia,Venture Capital,1,1,854,6.74993119378857,8.33,9.07,14,6,90.4,342
+Shorooq Partners,Bahrain,Buyout / PE,0,1,12578,9.439704535103449,8.21,7.84,11,32,75.2,1167
+Wamda Capital,UAE,Growth Equity,1,0,7611,8.937349848267392,8.42,8.3,17,18,81.6,1169
+BECO Capital,Saudi Arabia,Growth Equity,0,1,3843,8.254008590564844,8.23,8.96,41,12,88.8,1533
+Global Ventures,UAE,Venture Capital,1,0,440,6.0867747269123065,8.12,8.88,10,9,88.0,227
+Middle East Venture Partners,UAE,Venture Capital,1,1,325,5.783825182329737,8.24,8.58,10,16,82.4,156
+Cedar Mundi,UAE,Venture Capital,0,0,1108,7.010311867307229,8.85,9.5,37,6,93.8,1009
+Waha Capital,UAE,Buyout / PE,1,1,17434,9.76617760157152,8.9,8.3,8,17,84.4,1200
+Amwal AlKhaleej,UAE,Family Office,1,1,3287,8.097730573664219,7.87,6.63,8,14,61.6,765
+Jadwa Investment,Kuwait,Growth Equity,1,1,1001,6.90875477931522,8.24,8.56,10,21,83.2,337
+STV (Saudi Tech Ventures),Saudi Arabia,Venture Capital,0,1,437,6.07993319509559,8.4,8.62,17,11,83.6,300
+Riyad Capital PE,Kuwait,Venture Capital,0,1,449,6.1070228877422545,9.02,9.5,10,37,95.0,226
+SVC (Saudi Venture Capital),Saudi Arabia,Venture Capital,0,1,242,5.488937726156687,9.5,9.49,18,4,93.9,231
+Nuwa Capital,Saudi Arabia,Buyout / PE,0,0,1453,7.2813856635702825,7.9,8.35,18,15,82.0,493
+COTU Ventures,UAE,Buyout / PE,1,0,9019,9.107088742165708,7.94,7.43,8,29,71.7,925
+Chimera Capital,Oman,Asset Manager,0,1,18109,9.804164331241342,8.44,8.17,17,18,80.3,1499
+Dubai Holding PE,Oman,Family Office,0,1,898,6.8001700683022,8.51,7.17,10,15,68.6,260
+Falcon Pearl Capital,UAE,Growth Equity,1,1,3040,8.019612794400267,8.54,8.85,16,19,84.9,547
+Sandstone Partners,UAE,Asset Manager,1,1,2236,7.71244383427499,8.2,7.8,14,16,75.7,583
